@@ -19,6 +19,8 @@ Step-by-step [instructions](https://openjfx.io/openjfx-docs/) on how to install 
 => --module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml
 
 ## ScreenShots
-![](src/imgs/Screenshot%20from%202020-12-24%2013-01-01.png)
-![](src/imgs/Screenshot%20from%202020-12-24%2013-01-04.png)
-![](src/imgs/Screenshot%20from%202020-12-24%2013-01-06.png)
+![](src/imgs/Screenshot%20from%202021-10-22%2016-50-26.png)
+![](src/imgs/Screenshot%20from%202021-10-22%2016-50-51.png)
+![](src/imgs/Screenshot%20from%202021-10-22%2016-50-58.png)
+![](src/imgs/Screenshot%20from%202021-10-22%2016-51-05.png)
+![](src/imgs/Screenshot%20from%202021-10-22%2016-51-08.png)
